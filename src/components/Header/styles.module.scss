@@ -1,0 +1,12 @@
+.city{
+    font-size: 30px;
+    font-weight: 700;
+}
+.header__firstrow{
+    display: flex;
+    justify-content: space-between;
+    input{
+        border: 1px solid;
+        height: 30px;
+    }
+}

@@ -1,0 +1,18 @@
+.loader {
+    margin: 100px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px dashed mediumaquamarine;
+    animation: rotate 3s infinite linear;
+    font-size: 20px;
+}
+
+@keyframes rotate {
+    from{
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
