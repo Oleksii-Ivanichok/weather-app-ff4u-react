@@ -1,3 +1,8 @@
+login = 1
+password = 1
+
+Allow geolocation access to fetch weather (I do not collect your data, don't worry).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
